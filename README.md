@@ -4,7 +4,7 @@ Individual project
 
 Name: Visa Xiong
 
-Outline:
+### Outline:
 
 Introduction
 
