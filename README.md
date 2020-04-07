@@ -74,6 +74,7 @@ UNCC-Serve is here to help students order and deliver their food securely on cam
 #### Rating
 
 | Column  | Data Type | Description |
+| --- | --- | --- |
 | Rating_id | int | The Rating ID number |
 | Rate | int | The number of stars given to driver |
 | RateComment | varchar(255) | Comments located under the rates |
