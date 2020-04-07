@@ -31,65 +31,97 @@ UNCC-Serve is here to help students order and deliver their food securely on cam
 #### USER
 
 | Column  | Data Type | Description |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| --- | --- | --- |
+| PersonID | varchar(100) | User's ID number |
+| Name | varchar(255) | User's full name |
+| Email | varchar(255) | User's email for verification |
+| Cell | varchar(45) | User's cell number |
+| Password | varchar(45) | User's password for access |
 
 #### Staff
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| Column  | Data Type | Description |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 #### Faculty
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Column  | Data Type | Description |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 
 #### Student
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Column  | Data Type | Description |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 
 #### Drivers
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| Column  | Data Type | Description |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 #### Rating
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Column  | Data Type | Description |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 
 #### Order
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Column  | Data Type | Description |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 
 #### Delivery
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Column  | Data Type | Description |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 
  #### Location
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+| Column  | Data Type | Description |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
+| --- | --- | --- |
 
 
