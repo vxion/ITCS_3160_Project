@@ -12,7 +12,7 @@ UNCC-Serve is here to help students order and deliver their food securely on cam
 <br /> In this project, I will create a database system for a delivery service provided for students on campus. I will be using MySQL as my primary workbench to create this database.
   
 ### Use Case
-![Image](https://photos.app.goo.gl/wNE7AWPwpFDF7mXQ8)
+![Image](temp/use_case.png)
 
 ### Business Rules
 - The project illustrates a delivery service between the Customer and the Company.
