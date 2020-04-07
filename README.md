@@ -24,7 +24,7 @@ UNCC-Serve is here to help students order and deliver their food securely on cam
 - Admin is a user who can add/remove users.
 
 ### EERD
-![Image](temp/EERD.png | width=100)
+![Image](temp/EERD.png =100)
 
 ### Data Dictionary
 
