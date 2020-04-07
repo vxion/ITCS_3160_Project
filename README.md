@@ -8,10 +8,11 @@ Name: Visa Xiong
 UNCC-Serve (By Visa Xiong)
 
 #### Description:
-  UNCC-Serve is here to help students order and deliver their food securely on campus. We make sure that your order is delivered on time and save on prices. We are here to delivery you all sorts of food to your dorm or anywhere on campus! <br />
-	In this project, I will create a database system for a delivery service provided for students on campus. I will be using MySQL as my primary workbench to create this database.
+UNCC-Serve is here to help students order and deliver their food securely on campus. We make sure that your order is delivered on time and save on prices. We are here to delivery you all sorts of food to your dorm or anywhere on campus! <br />
+<br /> In this project, I will create a database system for a delivery service provided for students on campus. I will be using MySQL as my primary workbench to create this database.
   
 ### Use Case
+![USE CASE]{file:///Users/vis.aa/Desktop/Screen%20Shot%202020-04-06%20at%2011.21.14%20PM.png}
 
 ### Business Rules
 - The project illustrates a delivery service between the Customer and the Company.
