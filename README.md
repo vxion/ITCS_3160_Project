@@ -25,6 +25,7 @@ UNCC-Serve is here to help students order and deliver their food securely on cam
 
 ### EERD
 ![Image](temp/EERD.png =100)
+<img src="temp/EERD.png" width="100" height="100">
 
 ### Data Dictionary
 
